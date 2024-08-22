@@ -1,0 +1,88 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+nav{
+
+    height: 50px;
+    width: 100%;
+
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    margin: 30px;
+    color: black;
+    font-size: 15px;
+    padding: 20px;
+
+
+}
+nav ul li a:hover{
+    background-color: black;
+    color: white;
+}
+.parallex{
+
+    height: 600px;
+    width: 100%;
+    background-image: url(https://eu.louisvuitton.com/images/is/image/lv/1/VE_DI3_L/louis-vuitton-stores-us-louis-vuitton-saks-american-dream--Stfi_LouisVuitton_SAKS_AmericanDream_1_DI3.jpg?wid=1200&hei=630);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.content{
+    text-align: center;
+    padding: 60px;
+   
+}
+.content p{
+    width: 900px;
+    margin-left: 270px;
+    color: gray;
+}
+.parallex1{
+
+    height: 900px;
+    width: 100%;
+    background-image: url(https://media.gq.com/photos/65d417e7fd59a1388856ae49/master/w_1600%2Cc_limit/lv%2520campaign.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.parallex2{
+
+    height: 600px;
+    width: 100%;
+    background-image: url(https://realstyle.therealreal.com/wp-content/uploads/2020/06/0611_LV_On_Sale_Guide_Feature-1.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.row{
+
+    height: 400px;
+    width: 100%;
+}
+
+.parallex3{
+
+    height: 600px;
+    width: 100%;
+    background-image: url(https://ap.louisvuitton.com/images/is/image//content/dam/lv/editorial-content/New-Homepage/2024/central/category/women_bags/Women_Bags_WW_HP_Category_Push_V20240726_DII.jpgg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
